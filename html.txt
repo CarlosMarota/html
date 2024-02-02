@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Carlos Marota</title>
+</head>
+<body>
+
+<h1>This how my life is.</h1>
+<p>My name is carlos and i very loving.</p>
+
+</body>
+</html>
